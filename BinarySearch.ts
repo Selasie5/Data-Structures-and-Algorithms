@@ -18,7 +18,6 @@ function binarySearch(haystack:number[],needle:number):boolean
 
                 }
     }
-    while (lo < hi) {
-        return false
+    while (lo < hi) ;
+    return false;
     }
-}
