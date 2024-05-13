@@ -8,3 +8,4 @@ function linearSearch(haystack:number[], needle:number):boolean {
         }
     return false
 }
+/*This program will have a time complexity of O(N)*/
